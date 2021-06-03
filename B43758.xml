@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>On the much lamented death of that incomparable lady the Honourable the Lady Oxenden. A pindarique ode. / by Mrs. Randolph.</title>
+            <author>Randolph, Mrs., fl. 1735.</author>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B43758</idno><idno type="EEBO-CITATION">688635903</idno>
+  <idno type="VID">212053</idno>
+  <idno type="EEBO-PROQUEST">2240879816</idno>
+  
+            <idno type="OCLC"> 688635903</idno>
+            <idno type="OCLC">ocn 688635903</idno>
+            <idno type="STC">Wing R239aA</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B43758)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 212053)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2998:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>On the much lamented death of that incomparable lady the Honourable the Lady Oxenden. A pindarique ode. / by Mrs. Randolph.</title>
+                  <author>Randolph, Mrs., fl. 1735.</author>
+               </titleStmt>
+               <extent>3 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1697?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Docket title is the same as the caption title.</note>
+                  <note>Printed in seven verses in one column.</note>
+                  <note>Imperfect: faded with some loss of text.</note>
+                  <note>Reproduction of original in: Beinecke Rare Book and Manuscript Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Oxenden, Elizabeth, 1655 or 6-1696 --  Poetry --  Early works to 1800.</term>
+               <term type="topical_term">Elegiac poetry, English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ode">
+            <pb facs="tcp:212053:1"/>
+            <pb facs="tcp:212053:2"/>
+            <head>On the much Lamented Death Of that Incomparable Lady <hi>The Honourable the Lady OXENDEN.</hi>
+            </head>
+            <head type="sub">A Pindarique Ode.</head>
+            <byline>By Mrs. <hi>Randolph.</hi>
+            </byline>
+            <lg>
+               <head>I.</head>
+               <l>AH! 'tis too much, relentless Fate!</l>
+               <l>No more impartial may we stile thee now,</l>
+               <l>So nicely thou dost chuse thy Victims out of late,</l>
+               <l>Still the most perfect soonest feel thy Blow.</l>
+               <l>His larger Circle yet the Sun</l>
+               <l>Has hardly twice compleatly run,</l>
+               <l>Since thou didst on that great Example seize,</l>
+               <l>Of Queens the wisest and the best</l>
+               <l>That ever any Age, or any Nation, blest.</l>
+               <l>Could not that Glorious Royal Prize</l>
+               <l>Thy greedy Cruelty suffice!</l>
+               <l>But must thou still go on, and with a spiteful Hand,</l>
+               <l>Snatch ev'ry Ornament of our unhappy Land?</l>
+               <l>And few they were (alas) she left behind,</l>
+               <l>In whom her Vertues singly shin'd;</l>
+               <l>Here they did so conspicuously unite,</l>
+               <l>And each of them so eminently bright,</l>
+               <l>Their Lustre did too soon direct thee right.</l>
+            </lg>
+            <lg>
+               <head>II.</head>
+               <l>In vain, exceedingly in vain,</l>
+               <l>From thee, my Muse, I think to find Relief,</l>
+               <l>Thou canst not help me to complain,</l>
+               <l>Broken and useless now is thy neglected Lyre;</l>
+               <l>Too little Art thou hast, and too much Grief,</l>
+               <l>This Theme a more exalted Strain,</l>
+               <l>A better Genius does require:</l>
+               <l>Yet ha! Should all their utmost Skill conspire,</l>
+               <l>The sweetest, liveliest Strokes of Poetry</l>
+               <l>When drawn for her, how flat and dead they be!</l>
+               <l>Whoever would her Character endite,</l>
+               <l>Must first have learnt, like her, to think and write.</l>
+            </lg>
+            <lg>
+               <head>III.</head>
+               <l>All Excellencies, Moral and Divine,</l>
+               <l>With Intellectual, did in her combine;</l>
+               <l>So solid was her Judgment, so acute her Wit,</l>
+               <l>So well she did employ and govern it:</l>
+               <pb n="2" facs="tcp:212053:3"/>
+               <l>To ev'ry useful kind of Knowledge she aspir'd</l>
+               <l>Scorn'd by those narrow Bounds to be confin'd,</l>
+               <l>Which to her Sex are enviously assign'd,</l>
+               <l>And 'twas as easily by her acquir'd,</l>
+               <l>As speedily, almost, as 'twas desir'd:</l>
+               <l>Nature (who doubtless did foresee,</l>
+               <l>How short her Time was here to be)</l>
+               <l>So accurately did her mind contrive,</l>
+               <l>And did such quick perception to it give,</l>
+               <l>That she Perfection might attain,</l>
+               <l>And all the Ends of Life might gain,</l>
+               <l>Before most others do begin to live.</l>
+            </lg>
+            <lg>
+               <head>IV.</head>
+               <l>Her great Endowments, which to all were known,</l>
+               <l>Seem'd hidden from her self alone;</l>
+               <l>Her Wit was cloath'd in mildest Innocence,</l>
+               <l>Such as could neither give, nor take Offence;</l>
+               <l>Goodness her whole Composure seem'd to be,</l>
+               <l>From the least visible Defect 'twas free,</l>
+               <l>Excessive only in Humility:</l>
+               <l>That so attractively she did express,</l>
+               <l>With such engaging Sweetness in her whole Address,</l>
+               <l>As was peculiar to her Mein,</l>
+               <l>In others 'tis so seldom seen,</l>
+               <l>'Tis hard to fit it with a Name</l>
+               <l>In her it always charm'd, and always was the same.</l>
+            </lg>
+            <lg>
+               <head>V.</head>
+               <l>No Storms of Passion ever could molest</l>
+               <l>The happy Calmness of her Breast,</l>
+               <l>A proper Temple for that sacred Dove,</l>
+               <l>That does a peaceful Habitation love,</l>
+               <l>Religion over all her Vertues reign'd,</l>
+               <l>Their Lustre and Security maintain'd,</l>
+               <l>Not to her Closet or the Church confin'd,</l>
+               <l>(Tho' there with constant Fervour still it shin'd)</l>
+               <l>Nor yet unprofitably spent,</l>
+               <l>In Theory alone, and Argument,</l>
+               <l>(Tho' that exactly too she understood)</l>
+               <l>But in the nobler Task of doing good.</l>
+               <l>In her the ancient Christian Charity</l>
+               <l>We did, but now (alass) no more shall see,</l>
+               <l>It is too antiquated grown,</l>
+               <l>For Ladies in these Days to own:</l>
+               <l>But she was form'd by Heav'n, to show</l>
+               <l>What Nature when improv'd by Grace could do;</l>
+               <l>This stupid slothful Age to teach,</l>
+               <l>To what a Height Humanity might reach.</l>
+            </lg>
+            <pb n="3" facs="tcp:212053:4"/>
+            <lg>
+               <head>VI.</head>
+               <l>A Soul so made for those bright Seats above,</l>
+               <l>From its Celestial Mansion could not stay,</l>
+               <l>Nor longer be confin'd to Mortal Clay;</l>
+               <l>It grew impatient to remove:</l>
+               <l>Tho' ne'er did Nature better yet</l>
+               <l>An outward Frame to such a Spirit fit;</l>
+               <l>As 'twill hereafter shine in Robes of Light:</l>
+               <l>'Twas here adorn'd with almost matchless white.</l>
+               <l>So sweet an Air, such perfect Symmetry,</l>
+               <l>And that exact Proportion did agree,</l>
+               <l>With such a Soul compos'd of Harmony,</l>
+               <l>Could Vertue drest in Humane Shape appear,</l>
+               <l>Just such a lovely Form she'd chuse to wear.</l>
+               <l>Thou sooner, Muse, her Beauty shoud'st have told</l>
+               <l>But that, tho' in its self 'twas great,</l>
+               <l>And many others it outshin'd,</l>
+               <l>'Twas darken'd by the Lustre of her Mind:</l>
+               <l>As in a beauteous Picture richly set,</l>
+               <l>With most Attention we behold the Face,</l>
+               <l>And hardly mind at all the Case,</l>
+               <l>Tho' edg'd with spark'ling Stones, enrich'd with purest Gold:</l>
+               <l>So whilst in her bright Soul we see,</l>
+               <l>So fair an Impress of the Diety,</l>
+               <l>We scarce had Leisure to observe the Shrine,</l>
+               <l>The Saint that dwelt there cast a Splendor more divine.</l>
+            </lg>
+            <lg>
+               <head>VII.</head>
+               <l>The Blest, who now Triumphant reign,</l>
+               <l>A strict Communion don't disdain</l>
+               <l>With us poor Militants below;</l>
+               <l>And certainly it was that Truth to show,</l>
+               <l>That on that solemn Day,
+<note place="margin">All-Saints Day (96)</note>
+               </l>
+               <l>Which to their Memory we yearly pay,</l>
+               <l>Her Guardian Angel summon'd her away.</l>
+               <l>A Pledge of that Communion she was given,</l>
+               <l>(As fit a one as Earth could yield to Heaven)</l>
+               <l>And we should ill that Sympathy maintain,</l>
+               <l>If now whilst they rejoice we should complain.</l>
+               <l>To thee (bright Saint) were but our Sorrows known,</l>
+               <l>The guilty Tribute (sure) thou would'st disown;</l>
+               <l>We must not mourn, since thou art blest,</l>
+               <l>However hard, extremely hard it be,</l>
+               <l>Our stubborn Grief must be supprest,</l>
+               <l>Since 'tis injurious to thy Memory:</l>
+               <l>How muchthy Vertues we admire,</l>
+               <l>By Imitation will the best be shown,</l>
+               <l>And that's a Task will all our Lives require.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="half_title">
+            <pb facs="tcp:212053:5"/>
+            <p>ON THE Much Lamented Death Of that Incomparable Lady The HONOURABLE <hi>The Lady OXENDEN.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
